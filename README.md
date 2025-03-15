@@ -36,4 +36,4 @@ Requires a well-trained ANN model, which depends on the quality and quantity of 
 
 Computational complexity may be higher compared to traditional methods.
 
-In summary, ANN-based MPPT leverages the learning capability of neural networks to dynamically and efficiently track the maximum power point in solar PV systems, making it a powerful tool for optimizing energy harvest. 🌞🔋
+In summary, ANN-based MPPT leverages the learning capability of neural networks to dynamically and efficiently track the maximum power point in solar PV systems, making it a powerful tool for optimizing energy harvest.
